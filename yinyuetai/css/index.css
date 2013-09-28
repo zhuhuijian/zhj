@@ -1,0 +1,160 @@
+﻿/*-----------------Top----------------------*/
+.topnav{width: 100%;height: 45px;margin: auto;background: url("images/topbar_bg.png") repeat-x scroll 0% 0% transparent;position: fixed;z-index: 5;}
+.content{max-width: 1560px;min-width: 960px;height: 41px;margin: 0px auto;padding: 0px 20px;position: relative}
+.logo{width: 88px;height: 32px;display: block;background-image: url("images/logo.png");background-repeat: no-repeat;margin: 5px 23px 0 0;}
+
+.tbmenu{width: 71px;height: auto;position: relative;margin: 0 30px 0 0;}
+.tbmenudt{width: 71px;height: auto;position: absolute;top: 2px;z-index: 10;}
+.tbmenu dt:hover{background-color: rgb(5,5,5);}
+.tbmenu a{font-size: 12px;display: block;height: auto;font-family: 微软雅黑;color: rgb(255,255,255);line-height: 39px;padding: 0 0 0 15px;}
+.tbmenu a:hover{color: rgb(204,255,153);background-color: rgb(5,5,5);}
+.tbmenu span{cursor: pointer;}
+.tbmenudd{width: 81px;height: auto;line-height: 39px;background-color: rgb(51,51,51);position: absolute;top: 41px;display: none;z-index: 9;}
+.tbmenudd a{padding-left: 10px;}
+.tbmenudd a:hover{color: rgb(255,255,255);background:none repeat scroll 0% 0% rgb(90, 132, 10);}
+
+.menu{width: 529px;height: 41px;margin: auto;position: relative;}
+.wodejia{width: 71px;height: 41px;margin: auto;position: absolute;}
+.yitiaoshuxian{width: auto;height: 29px;margin: auto;position: absolute;}
+.shuxian{width: 1px;height: 16px;margin-top: 12px;margin-left: 13.5px;margin-right: 13.5px;background: url("images/topbar_sprite2.png") no-repeat scroll -223px -22px transparent;background-repeat: no-repeat;}
+
+.bbb{width: 7px;height: 4px;cursor: pointer;margin: 19px 0px 0px 3px;font-size: 0px;background: url("images/topbar_sprite2.png") no-repeat scroll -223px -18px transparent;display: block;}
+.bup{width: 7px;height: 4px;cursor: pointer;margin: 19px 0px 0px 3px;font-size: 0px;background: url("images/topbar_sprite2.png") no-repeat scroll -231px -18px transparent;}
+
+.shouye{width: 24px;height: 41px;}
+
+
+.login{width: 81px;height: 41px;}
+.loginin{padding-right: 15px;margin-right: 11px;border-right: 1px solid rgb(102, 102, 102);line-height: 41px;}
+.login a{color: rgb(204, 204, 204);}
+.login a:hover{color: rgb(204,255,153);}
+
+
+.search{width: 223px;height: 29px;margin: 7px auto 0px;margin-right: 151.5px;position: relative;}
+.left_park_side{position: absolute;z-index: 291;left: 0px;top: 0px;width: 15px;height: 29px;background: url("images/topbar_sprite2.png") no-repeat scroll 0% 0% transparent;}
+.right_park_side{position: absolute;z-index: 291;left: 0px;top: 0px;width: 15px;height: 29px;background: url("images/topbar_sprite2.png") no-repeat scroll 0% 0% transparent;left: auto;right: 0px;background-position: -208px 0px;}
+.searchbody{position: absolute;z-index: 291;top: 0px;left: 15px;width: 193px;height: 29px;background: url("images/topbar_sprite2.png") no-repeat scroll -15px 0px transparent;}
+.search input{margin-top: 7px;color: rgb(137, 137, 137);background-color: transparent;font-family: Tahoma,'微软雅黑','Microsoft Yahei',"hiragino sans gb",Helvetica,Arial,"宋体",'sans-serif';font-size: 12px;font-style: normal;font-weight: 400;border: 0px;padding: 0px;}
+.search button{position: absolute;z-index: 291;top: 6px;right: 13px;width: 16px;height: 17px;text-indent: -999em;cursor: pointer;border: 0px none;background: url("images/topbar_sprite2.png") no-repeat scroll -223px -1px transparent;}
+/*-----------------Top End------------------*/
+
+
+
+.index_focus{width: 1287px;height: 482.625px;background-color: rgb(150,150,150);margin: auto;z-index: 555;}
+
+
+
+
+
+
+
+
+.footer{width: 1287px;height: 150px;margin: auto;z-index: 548;}
+
+
+
+/*-------------index_content---------------------*/
+.index_content{border: 1px solid rgb(255,255,255);margin: auto;max-width: 1600px;min-width: 1000px;min-height: 1000px;margin: 0px auto;background-color: rgb(242, 242, 242);z-index: 487;}
+.index_box{position: relative;margin: 0 auto 30px;padding: 10px 0;}
+
+#shoubo{width: 1287px;height: 358px;margin: auto;}
+.ico_index_premiere{width: 230px;height: 40px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -46px;}
+.ico_index_popular{width: 230px;height: 40px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -92px;}
+.ico_index_vchart{width: 230px;height: 60px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -138px;}
+.ico_index_koudaifan{width: 230px;height: 40px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/942D01407AFA721F4BE0D26958FF8410.png") no-repeat scroll 0% 0% transparent;}
+.ico_index_zizhijiemu{width: 230px;height: 40px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -322px;}
+.ico_index_yinyueren{width: 230px;height: 40px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -276px;}
+.ico_index_rementuijian{width: 230px;height: 40px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -230px;}
+.ico_index_yinyuezixun{width: 230px;height: 40px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -368px;}
+.ico_index_yinyuejingxuan{width: 230px;height: 40px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -506px;}
+.ico_index_jingpinyuedan{width: 230px;height: 40px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -598px;}
+.ico_index_cainixihuan{width: 230px;height: 40px;line-height: 18px;display: inline-block;white-space: nowrap;text-indent: 100%;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll 0% 0% transparent;background-position: 0px -736px;}
+.index_title{width: 974px;height: 40px;line-height: 40px;position: relative;margin-left:156.5px;margin-right:156.5px;padding: 10px 0px;}
+.group_tab{width: 374px;height: 30px;position: absolute;right: 0px;}
+.group_tab a{height: 20px;line-height: 20px;margin: 0px 5px;padding: 3px 8px 5px;font-size: 14px;color: rgb(102, 102, 102);display: inline-block;font-family: 微软雅黑;vertical-align: top;}
+
+.cur{margin: 0px 11px;padding: 3px 2px 5px;border-bottom: 2px solid rgb(102, 153, 0);vertical-align: top;}
+.group_tab .cur:hover{color: rgb(102, 102, 102);background: none repeat scroll 0% 0% transparent;}
+.group_tab a:hover{color: rgb(255, 255, 255);background-color: rgb(102, 153, 0);}
+
+.ico_line{width: 2px;height: 10px;line-height: 10px;margin-top: 9px;margin-bottom: 9px;display: inline-block;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll -70px 0px transparent;}
+
+.index_list_auto{width: 970px;height: 298px;position: relative;margin-left:156.5px;margin-right:156.5px;}
+.index_list_w{display: block;width: 992px;}
+
+
+.mv_pic{float: left;padding: 2px;position: relative;margin: 0px 0px 19px;background-color: rgb(255, 255, 255);}
+.shadow{display: block;border: 1px solid rgb(232, 232, 232);}
+.shadow:hover{box-shadow: 0px 0px 3px rgb(102, 153, 0);border: 1px solid rgb(180, 200, 139);}
+.mr_r22{margin-right: 22px;}
+.mv_1x2{float: left;position: relative;width: 226px;margin-right: 22px;}
+.pic{position: relative;display: block;overflow: hidden;z-index: 10;}
+.play_pic2{width: 220px;height: 124px;}
+
+.play_name{width: 100%;height: 124px;position: absolute;left: 0px;bottom: 0px;color: rgb(255, 255, 255);background: url("images/index_play_bg.png") repeat-x scroll left bottom trasparent;display: nnone;}
+.text{padding: 0px 10px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 90%;display: block;}
+.fb14{font-size: 14px;font-weight: 700;}
+.mr_t75{margin-top: 75px;}
+.c_cf9{color: rgb(204, 255, 153);}
+.bigico_play{display: none;position: absolute;left: 50%;top: 0%;margin: -40px 0px 0px -30px;width: 60px;height: 60px;cursor: pointer;line-height: 1000px;overflow: hidden;background: url("images/ico_play_718.png") no-repeat scroll 0px 0px transparent;}
+.smallico_play{display: none;position: absolute;left: 50%;top: 50%;margin: -40px 0px 0px -30px;width: 60px;height: 60px;cursor: pointer;line-height: 1000px;overflow: hidden;background: url("images/ico_play_718.png") no-repeat scroll 0px 0px transparent;}
+
+
+
+.my_pic_info{width: 218px;height: 54px;position: relative;display: none;}
+
+.num{height: 20px;
+padding: 5px 0px 5px 10px;
+background-color: rgb(255, 255, 255);}
+
+.info{padding: 10px;line-height: 20px;color: rgb(102, 102, 102);overflow: hidden;margin-top: 5px;width: 218px;height: auto;}
+
+
+
+
+.index_w716{width: 716px;height: 273px;margin-right: 22px;}
+.index_info{width: 218px;height: 244px;padding: 10px 15px;position: absolute;left: 468px;}
+.title{width: 218px;height: auto;font-size: 18px;color: rgb(51, 51, 51);font-family: 微软雅黑,u9ed1u4f53,"Lucida Grande";cursor: pointer;}
+.title a{color: rgb(51,51,51);font-weight: 400;line-height: 27px;}
+.title a:hover{color: rgb(102,153,0);}
+.name{width: 218px;height: auto;color: rgb(102,153,0);padding: 2px 0 5px;}
+.name a{color: rgb(102,153,0);}
+.date{position: absolute;left: 139px;top: -2px;width: 30px;height: 30px;color: rgb(255, 255, 255);text-align: center;font-family: 微软雅黑;}
+.time{height: 32px;line-height: 32px;border-left: 1px solid rgb(213, 213, 213);margin-top: 25px;padding: 0px 0px 0px 10px;color: rgb(153, 153, 153);display: inline-block;left: -40px;position: relative;}
+.time:hover{color: rgb(102,153,0);}
+.my_pic{float: left;padding: 2px;position: relative;margin: 0px 0px 19px;background-color: rgb(255, 255, 255);}
+/*-------------index_content---------------------*/
+
+
+/*------------zuihou2hang----------------*/
+.playlist{width: 970px;height: 298px;margin-left: 156.5px;margin-right: 156.5px;border: 1px solid #ccc;}
+.playlistpic{float: left;padding: 2px;background-color: rgb(255, 255, 255);margin-right: 16px;position: relative;z-index: }
+.playlistpic a{z-index: 10;}
+.index_pl_user{width: 206px;height: 50px;position: absolute;left: 10px;bottom: -15px;z-index: 11;}
+.usercard{position: absolute;left: 60px;bottom: -4px;}
+.usersay a{position: absolute;left: 10px;bottom: -45px;color: rgb(51,51,51);font-size: 12px}
+.usersay a:hover{color: rgb(102,153,0);}	
+.xihuanindex{width: 970px;height: 149px;margin-right: 145px;margin-left: 145px;}
+
+#cainixihuan{width: 1287px;height: 230px;margin: auto;background-color: rgb(255,255,255);}
+/*------------zuihou2hang----------------*/
+
+
+
+
+
+
+
+
+/*---------------------------------Bottom---------------------------------*/
+.index_login{position: relative;width: 1287px;height: 128px;margin: auto;background-color: rgb(242,242,242);line-height: 128px;font-size: 24px;color: rgb(102,102,102);text-align: center;}
+.index_login a{color: rgb(51,153,0);}
+.xiaosanjiao{border-top: 0px solid rgb(0,0,0);width: 44px;height: 20px;margin: auto;background-image: url("images/ico_index.png");background-repeat: no-repeat;position: absolute;left: 50%;top: 0%;}
+
+.footer_link{font-size: 14px;color: rgb(102,102,102);text-align: center;line-height:22px;height: 22px;padding: 35px 0 20px;}
+.footer_link a{color: rgb(102,102,102);font-size: 14px;}
+.footer a:hover{color: rgb(51,153,0);}
+.foot_ico_line{width: 2px;height: 10px;line-height: 10px;display: inline-block;overflow: hidden;background: url("images/ico_index.png") no-repeat scroll -70px 0px transparent;margin: 0 8px;}
+.footer_copy{font-size: 12px;color: rgb(153,153,153);text-align: center;}
+.footer_copy a{color: rgb(153,153,153);}
+/*---------------------------------Bottom---------------------------------*/

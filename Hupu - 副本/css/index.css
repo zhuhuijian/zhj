@@ -1,0 +1,90 @@
+*{margin: 0;padding: 0;list-style:none;text-decoration: none;}
+a{text-decoration:none;cursor: pointer;}
+img{border: 0px;}
+body{text-align: center;font-size: 12px;font-family: "lucida grande",tahoma,verdana,arial,宋体,sans-serif;
+}
+
+/*-----------Top Start------------*/
+#hp-topbarNav{width: 1287px;height: 19px;color: rgb(0,0,0);background: none repeat scroll 0% 0% rgb(255, 255, 255);border-bottom: 1px solid rgb(227, 227, 227);color: rgb(153, 153, 153);line-height: 19px;border: 1px solid #ccc;margin: auto;}
+.hp-topbarNav-bd{width: 980px;margin-left: auto;margin-right: auto;}
+.hp-quickNav{margin: auto;color: rgb(153,153,153);float: left;line-height: 19px;}
+.hp-quickNav a:hover{color: rgb(164,31,36);}
+.hp-quickNav a:hover{text-decoration: underline;}
+.notLogin a:hover{text-decoration: underline;}
+.mobileWeb{color: rgb(153,153,153);float: left;font-size: 12px;line-height: 19px;margin: auto;padding: 0 10px 0 0;}
+.mobileWeb a,.hp-dropDownMenu a{color: rgb(153, 153, 153);}
+.ico-mobile{width: 8px;height: 12px;background-image: url("images/top_ico.png");background-position: 0px -167px;
+background-repeat: no-repeat;display: inline-block;margin: 3px 6px 0 0;overflow: hidden;float: left;display: block;}
+.line{float: left;color:rgb(236,236,236);}
+.mobileclientDown{float: left;padding: 0 10px;}
+.red{color: rgb(164,31,36);}
+.hp-dropDownMenu{float: left;position: relative;z-index: 10;}
+.dtover{border: 1px solid #ccc;background-color: #fff;border-bottom: 0;}
+.hupudd{display: none;width: 100%;height: auto;border: 1px solid #ccc;background-color: #fff;position: absolute;z-index: 9px;}
+.hp-set{cursor: pointer;display: inline-block;padding: 0 17px 0 10px;}
+.hp-set:hover{z-index: 11;padding: 0px 16px 1px 9px;background: none repeat scroll 0% 0% rgb(250, 250, 250);border-left: 1px solid rgb(204, 204, 204);border-right: 1px solid rgb(204, 204, 204);}
+.hp-topLogin-info{width: 288px;height: 19px;float: right;color: rgb(153,153,153);line-height: 19px;margin: auto;}
+.notLogin{width: 228px;height: 19px;line-height: 19px;}
+.btn-login,.btn-reg{color: rgb(102,102,102);cursor: pointer;}
+/*------------Top End----------------*/
+
+/*----------------Header--------------------------*/
+.hp-header{width: 980px;height: 68px;color: rgb(51,51,51);line-height: 21.6px;margin-top: 12px;margin-left: auto;margin-right: auto;}
+.hp-logo{width: 140px;height: 52px;float: left;margin-top: 7px;color: rgb(68,68,68);margin: auto;}
+.hp-mainNav{width: 825px;height: 57px;position: relative;float: right;z-index: 3;margin: auto;}
+.hp-nav{width: 825px;height: 28px;border-width: 1px 1px 0px;border-style: solid solid none;border-color: rgb(142, 13, 18) rgb(142, 13, 18) -moz-use-text-color;-moz-border-top-colors: none;-moz-border-right-colors: none;-moz-border-bottom-colors: none;-moz-border-left-colors: none;border-image: none;line-height: 27px;color: rgb(255, 255, 255);border-radius: 2px 2px 0px 0px;margin: auto;}
+.hp-nav-bd{height: 27px;background: none repeat scroll 0% 0% rgb(164, 31, 36);border-top: 1px solid rgb(194, 74, 82);border-right: 1px solid rgb(194, 74, 82);}
+.hp-nav-item li{float: left;line-height: 27px;height: 27px;padding-right: 8px;padding-left: 8px;}
+.hp-nav-item li a{color: rgb(255,255,255);cursor: pointer;margin: auto;line-height: 27px;height: 27px;}
+.hp-subNav .line{padding: 0;color: rgb(204,204,204);width: 5px;}
+.hp-nav .line{padding: 0;color: rgb(142,13,18);width: 5px;}
+.hp-subNav-item li{float: left;line-height: 27px;height: 27px;padding:0px 9px;z-index: 2;}
+.hp-subNav-item li a{color: rgb(51,51,51);cursor: pointer;line-height: 27px;height: 27px;}
+.hp-subNav{height: 27px;border-width: 1px;border-style: solid;border-color: rgb(255, 255, 255) rgb(204, 204, 204) rgb(204, 204, 204);line-height: 27px;border-radius: 0px 0px 2px 2px;background-image: -moz-linear-gradient(50% 0%, rgb(227, 231, 235), rgb(239, 241, 244))}
+.on{background-image: -moz-linear-gradient(50% 0%, rgb(227, 231, 235), rgb(239, 241, 244));font-weight: bold;}
+/*----------------Header--------------------------*/
+
+
+/*----------------------hp-wrap---------------------------------*/
+.hp-wrap{width: 980px;height: 4110px;margin: auto;}
+.nba-ad980-60{width: 980px;height: 60px;margin: auto;background-color: rgb(204,204,204);}
+.main{width: 980px;height: 4225px;margin-top: 5px;}
+.container{width: 728px;height: 4035px;margin: auto;float: left;padding-bottom: 10px;}
+.focusText{width: 728px;height: 501px;margin: auto;}
+
+
+.pic{width: 340px;height: 501px;float: left;}
+.ifocus{width: 338px;height: 288px;border: 1px solid #ccc;margin: auto}
+.hushilanqiu{width: 338px;height: 193px;margin-top: 3px;border: 1px solid rgb(204,204,204)}
+.b2{float: left;display: block;width: 130px;height: 20px;line-height: 21.6px;padding: 2px 0 2px 0;background-image: url("images/title2013071801.png");background-position: 0px -201px;background-repeat: no-repeat;}
+.bd{width: 338px;height: 169px;float: left;margin: auto;}
+.nba-item-A{width: 322px;height: 57px;padding: 3px 8px;}
+.nba-item-img{width: 80px;height: 50px;float: left;padding: 1px;margin-right: 10px;border: 1px solid rgb(204,204,204);}
+.nba-item-text{text-align: left;}
+.nba-item-text a{color: rgb(153, 0, 0);}
+.nba-item-text a:hover{text-decoration: underline;}
+.nba-item-text dd{color: rgb(204,204,204);line-height: 18px;}
+.list{width: 330px;height: 42px;padding: 1px 0 0 8px;}
+.list li{height: 21px;line-height: 16px;}
+
+
+
+.text{width: 380px;height: 500px;float: right;text-align: left;line-height: 500px;}
+.text a:hover{text-decoration: underline;}
+.text h2{height: 24px;line-height: 24px;overflow: hidden;font-size: 14px;font-weight: bold;}
+.text h2 a{margin-right: 7px;line-height: 24px;cursor: pointer;}
+.text h3{height: 20;overflow: hidden;line-height: 20px;font-size: 12px;font-weight: normal;color: rgb(204,204,204);}
+.text h3 a{cursor: pointer;color: rgb(51,51,51);margin-right: 3px;margin-left: 3px;}
+.lining{width: 4px;height: 16px;background-image: url("images/i_bg_6.png");background-position: -230px 5px;background-repeat: no-repeat;padding: 4px 0 0 25px;}
+.text hr{width: 380px;height: 1px;margin: 2px 0 2px 0;line-height: 0;color: rgb(204,204,204);background-color: rgb(204,204,204);}
+
+
+
+
+
+
+
+.nbaad{width: 728px;height: 90px;background-color: rgb(204,204,204);margin-top: 5px;border: 1px solid #ccc;}
+/*----------------------hp-wrap---------------------------------*/
+
+

@@ -1,0 +1,26 @@
+﻿*{margin: 0;padding: 0;}
+body{text-align: center;
+	font-size: 12px;
+	font-family: "lucida grande",tahoma,verdana,arial,宋体,sans-serif;
+}
+
+/*-----------Top Start------------*/
+#hp-topbarNav{
+	width: 1287px;
+	height: 19px;
+	color: rgb(0,0,0);
+	background: none repeat scroll 0% 0% rgb(255, 255, 255);
+	border-bottom: 1px solid rgb(227, 227, 227);
+	color: rgb(153, 153, 153);
+	line-height: 19px;
+	border: 1px solid #ccc;
+}
+
+.hp-topbarNav-bd{
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+/*------------Top End----------------*/
+

@@ -1,0 +1,6 @@
+*{margin: 0;padding: 0}
+a{text-decoration: none;display:inline;cursor: pointer;}
+img{border: 0px;}
+ul,li{list-style: none;}
+body{text-align: center;font-size: 12px;font-family: "lucida grande",tahoma,verdana,arial,宋体,sans-serif;
+}

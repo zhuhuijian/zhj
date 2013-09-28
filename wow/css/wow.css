@@ -1,0 +1,9 @@
+.pic{width: 640px;height: 300px;margin: auto;border: 1px solid #ccc;box-shadow: 2px;border-radius:5px 5px 3px 30px;margin-top: 20px;}
+.select{width: 60px;height: 100px;margin: auto;margin-top: 20px;text-align: center;line-height: 100px;}
+
+.select a{float: left;margin: auto;color: black;font-size: 20px;margin-right: 1px;}
+.select a:hover{color: red;}
+.test{height: 8888px;}
+
+.pic1{background-image: url("images/XWS3V7JJH5641349926683656.jpg");}
+.pic2{background-image: url("images/3QDQIM1XFDTQ1378451410835.jpg");}

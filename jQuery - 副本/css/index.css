@@ -1,0 +1,44 @@
+*{margin: 0;padding: 0}
+a{text-decoration: none;}
+img{border: 0px;}
+ul,li{list-style: none;}
+
+
+/*-----------Top------------*/
+#hp-topbarNav{width: 1287px;height: 19px;color: rgb(0,0,0);background: none repeat scroll 0% 0% rgb(255, 255, 255);border-bottom: 1px solid rgb(227, 227, 227);color: rgb(153, 153, 153);line-height: 19px;border: 1px solid #ccc;margin: auto;}
+.hp-topbarNav-bd{width: 980px;margin-left: auto;margin-right: auto;}
+.hp-quickNav{margin: auto;color: rgb(153,153,153);float: left;line-height: 19px;}
+.hp-quickNav a:hover{color: rgb(164,31,36);}
+.hp-quickNav a:hover{text-decoration: underline;}
+.notLogin a:hover{text-decoration: underline;}
+.mobileWeb{color: rgb(153,153,153);float: left;font-size: 12px;line-height: 19px;margin: auto;padding: 0 10px 0 0;}
+.mobileWeb a,.hp-dropDownMenu a{color: rgb(153, 153, 153);}
+.ico-mobile{width: 8px;height: 12px;background-image: url("images/top_ico.png");background-position: 0px -167px;
+background-repeat: no-repeat;display: inline-block;margin: 3px 6px 0 0;overflow: hidden;float: left;display: block;}
+.line{float: left;color:rgb(236,236,236);}
+.mobileclientDown{float: left;padding: 0 10px;}
+.red{color: rgb(164,31,36);}
+.hp-topLogin-info{width: 288px;height: 19px;float: right;color: rgb(153,153,153);line-height: 19px;margin: auto;}
+.notLogin{width: 228px;height: 19px;line-height: 19px;}
+.btn-login,.btn-reg{color: rgb(102,102,102);cursor: pointer;}
+
+
+
+.hp-dropDownMenu{float: left;}
+.dtover{border: 1px solid #ccc;background-color: #fff;border-bottom: 0;}
+.hupudd{display: none;width: 100%;height: auto;border: 1px solid #ccc;background-color: #fff;position: absolute;}
+
+
+
+.guanzhu{position: relative;cursor: pointer;display: inline-block;padding: 0 17px 0 10px;float: left;}
+.guanzhu:hover{padding: 0px 16px 1px 9px;background: none repeat scroll 0% 0% rgb(250, 250, 250);border-left: 1px solid rgb(204, 204, 204);border-right: 1px solid rgb(204, 204, 204);}
+.yincang{width: 100%;height: auto;border: 1px solid #ccc;background-color: #fff;top: 25px;}
+/*------------Top End----------------*/
+
+
+
+
+.show{display: none;}
+#test2{border: 5px solid #ccc;width: 100px;height: 30px;margin-top: 20px;float: left;}
+#test2:hover{cursor: pointer;}
+.show2{display: none;}
